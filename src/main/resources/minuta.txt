@@ -1,0 +1,40 @@
+<article data-id_documento="511550149542490461195019914160" data-cod_documento="510000502697" data-id_modelo="711398879112775091180000000006">
+<header id="510000502697_1">
+				<div class="timbre_brasao"/> 
+				<div class="timbre_poder">Poder Judici&#xE1;rio</div> 
+				<div class="timbre_instancia">JUSTI&#xC7;A FEDERAL</div> 
+				<div class="timbre_secao_judiciaria">Se&#xE7;&#xE3;o Judici&#xE1;ria do Rio de Janeiro</div> 
+				<div class="timbre_orgao">2&#xAA; Vara Federal do Rio de Janeiro</div> 															
+			</header>
+<section id="510000502697_2" contentEditable="false" data-nome_apresentacao="Endere&#xE7;o" data-nome="endereco" data-sin_conteudo_obrigatorio="true" data-estilo_padrao="endereco">
+				<p class="endereco">AV. RIO BRANCO, 243, ANEXO II - 3 ANDAR - Bairro: CENTRO - CEP: 20040-009 - Fone: (21)3218-8024 - WWW.JFRJ.JUS.BR - Email: 02VF@JFRJ.JUS.BR</p>
+			</section>
+<section id="510000502697_3" contentEditable="false" data-nome_apresentacao="Identifica&#xE7;&#xE3;o do Processo" data-nome="identificacao_processo" data-sin_conteudo_obrigatorio="true" data-estilo_padrao="identificacao_processo">
+			<p class="identificacao_processo">
+				<p class="identificacao_processo"><span data-classe_processo="000029">PROCEDIMENTO COMUM </span><span data-numero_processo="50477068920184025101" data-sin_numero_processo="true"> N&#xBA; 5047706-89.2018.4.02.5101/</span><span data-origem_processo="RJ">RJ</span></p>
+			</p>
+			</section>
+<section id="510000502697_4" contentEditable="false" data-nome_apresentacao="Partes" data-nome="partes" data-sin_conteudo_obrigatorio="true">
+                                                               <div class="autores" data-polo="autores"><div class="parte_autor" data-sin_parte_principal="S" data-parte_polo="autor" data-sin_parte_entidade="false"><p class="parte" data-sin_parte="true" data-id_processo_parte="511545061547357731164201790928"><span class="tipo_parte">AUTOR</span>: <span class="nome_parte">VANIA MARACAT AFONSO</span></p></div></div><div class="reus" data-polo="reus"><div class="parte_re" data-sin_parte_principal="S" data-parte_polo="reu" data-sin_parte_entidade="true"><p class="parte" data-sin_parte="true" data-id_processo_parte="511545061547357731164201790923"><span class="tipo_parte">R&#xC9;U</span>: <span class="nome_parte">UNI&#xC3;O - FAZENDA NACIONAL</span></p></div></div>
+			</section>
+<section id="510000502697_5" contentEditable="false" data-nome_apresentacao="T&#xED;tulo" data-nome="titulo" data-sin_conteudo_obrigatorio="true" data-estilo_padrao="titulo">
+				<p class="titulo">DESPACHO/DECIS&#xC3;O</p>
+			</section>
+<section id="510000502697_6" contentEditable="true" data-nome_apresentacao="Despacho/Decisão" data-nome="despacho_decisao" data-sin_conteudo_obrigatorio="true" data-sin_permite_texto_padrao="true" data-estilo_padrao="paragrafo" data-sin_dispositivo="false">
+<p class="paragrafoPadrao">TESTE DE SALVAMENTO DE MINUTA Retifico de of&#xED;cio a decis&#xE3;o retro, para, sanando a omiss&#xE3;o verificada quanto ao ju&#xED;zo de destino, apontar um dos Juizados Especiais Federais da Capital como competente para a aprecia&#xE7;&#xE3;o do feito. Cumpra-se</p></section>
+<section id="510000502697_7" contentEditable="false" data-nome_apresentacao="Assinaturas" data-nome="assinaturas" data-estilo_padrao="tarja_assinatura">
+			</section>
+<section id="510000502697_8" contentEditable="false" data-nome_apresentacao="Notas de fim de texto" data-nome="notas" data-estilo_padrao="notas">
+<p class="notas"/>
+<p/></section>
+<footer id="510000502697_9">				
+				<div class="rodape_esquerda">	
+					<span data-numero_processo_rodape="50477068920184025101" data-sin_numero_processo_rodape="true">5047706-89.2018.4.02.5101</span>
+				</div>	
+				<div class="rodape_direita">	
+					<span data-codigo_documento_rodape="510000502697" data-sin_codigo_documento_rodape="true">510000502697</span>
+					<span data-versao_documento_rodape="7" data-sin_versao_documento_rodape="true">.V7</span>
+					<span data-usuario_criador_documento_rodape="JRJ14170" data-sin_usuario_criador_documento_rodape="true">JRJ14170&#xA9;</span>
+					<span data-usuario_editor_documento_rodape="" data-sin_usuario_editor_documento_rodape="true"></span>
+				</div>
+			</footer></article>
